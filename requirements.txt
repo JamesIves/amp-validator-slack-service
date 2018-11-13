@@ -1,4 +1,4 @@
 requests==2.20.0
 slackclient==1.0.7
 schedule==0.4.3
-lxml==3.7.3
+lxml==4.2.5
